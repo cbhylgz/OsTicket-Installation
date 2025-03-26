@@ -48,8 +48,8 @@ Afterwards, install and enable IIS (Internet Information Servies) by going to Co
 <img src="https://i.imgur.com/yKnBXiO.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Next, head on down to the Common HTTP Features dropdown in the same popup and check all boxes, then click "OK": <br/>1B5
-<img src="https://imgur.com/a/FQC2YlG" height="80%" width="80%" alt="Setting Up in Azure"/>
+Next, head on down to the Common HTTP Features dropdown in the same popup and check all boxes, then click "OK": <br/>
+<img src="https://i.imgur.com/D8qX42e.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Type in the loopback IP (127.0.0.1) in the internet browser. If you see this page, that means the web server installed without any issue:  <br/>
@@ -77,7 +77,7 @@ Download MySQL. Click Typical, launch Configuration Wizard after installation, a
 <br />
 <br />
 Next, input the login information. Keep the password in a safe place. Typing it out in a Notepad is not advised:  <br/>
-<img src="https://i.mgur.com/ECaTnv8.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/ECaTnv8.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Open IIS as an admin:  <br/>
